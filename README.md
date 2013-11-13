@@ -26,3 +26,8 @@ public class BuscadorBinario {
 }
 ```
 
+### Resolución
+
+`BuscadorBinario`: [`BuscadorBinario.java`](../master/src/BuscadorBinario.java) 
+
+`PruebaBuscadorBinario`: [`PruebaBuscadorBinario.java`](../master/src/PruebaBuscadorBinario.java) 
